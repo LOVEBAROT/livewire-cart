@@ -13,8 +13,6 @@
         <header>
             <div class="container px-6 py-3 mx-auto">
                 <div class="flex items-center justify-between">
-                    
-                    
                     <div class="flex items-center justify-end w-full">
                         <button" class="mx-4 text-gray-600 focus:outline-none sm:mx-0">
                             
