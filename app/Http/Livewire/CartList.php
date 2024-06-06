@@ -20,7 +20,6 @@ class CartList extends Component
     public function clearAllCart()
     {
         Cart::clear();
-
         session()->flash('success', 'All Item Cart Clear Successfully !');
     }
 
